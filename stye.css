@@ -1,0 +1,73 @@
+
+a:hover{
+    color:black;
+}
+.container-fluid{
+    background-color:#E94560;
+
+}
+.nav-item{
+    color:white;
+}
+.nav-link{
+     color: white;
+     font-weight: bolder;
+     font-variant: inherit;
+     font-variant: normal;
+     font-size: 150px;
+    font-family: 'Caveat', cursive;
+     position:static;
+}
+.para{
+  color:white;
+  font-family: 'Edu QLD Beginner', cursive;
+  position: inherit;
+  padding-top: 800px;
+}
+.thekey{
+  background-color: #E94560;
+
+}
+.wts{
+  color:white;
+font-family: 'Caveat', cursive;
+font-size: 50px;
+
+  text-align: center;
+}
+
+.myphoto{
+  
+  padding-top:30px;
+  padding-right: 50%;
+  margin-left: auto;
+  align-content: space-around;
+align-self: center;
+align-content: space-around;
+
+
+}
+.heading{
+  font-family: 'Caveat', cursive;
+}
+.headingdown{
+  font-family: 'Caveat', cursive;
+  font-size: 100px;
+}
+#demandshift{
+     border-top-style: solid;
+border-top-width: 500px;
+border-bottom-width: 500px;
+border-bottom-style: solid;
+border-left-width: 300px;
+border-left-style: solid;
+border-right-width: 300px;
+border-right-style: solid;
+background-color: #E94560;
+}
+.thefontcolor{
+font-family: 'Caveat', cursive;
+}
+.downimage{
+  background-color: #E94560;
+}
